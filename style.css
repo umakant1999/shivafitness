@@ -1,0 +1,31 @@
+.navbar-toggler{
+    background-color: black;
+ border: none;   outline: none;
+}.navlinks .nav-item{
+  flex-grow: 1;
+  font-size: 20px;
+  align-items: center;justify-content: center;
+}
+.container {
+  width: 100%;
+}
+ul li a{
+  color: white;
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+}
+svg{
+  width: 30px;
+}
+.contact{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  padding: 10px;
+}
